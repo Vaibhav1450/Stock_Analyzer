@@ -31,7 +31,7 @@ A Python-based command-line application that fetches real-time stock data and vi
 ## Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/Vaibhav1450/Stock_Analyzer.git
+git clone https://github.com/Vaibhav-Chaturvedi57/Stock_Analyzer.git
 cd Stock_Analyzer
 
 ### 2. Install dependencies
